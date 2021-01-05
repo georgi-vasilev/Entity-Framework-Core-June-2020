@@ -1,0 +1,15 @@
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.genruntimeconfig.cache
