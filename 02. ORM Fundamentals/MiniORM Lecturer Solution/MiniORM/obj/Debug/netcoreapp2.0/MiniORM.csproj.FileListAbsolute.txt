@@ -1,9 +1,0 @@
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
-D:\Workspace\Entity-Framework-Core-June-2020\02. ORM Fundamentals\MiniORM-master\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
