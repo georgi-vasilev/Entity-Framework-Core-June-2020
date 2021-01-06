@@ -1,7 +1,7 @@
-﻿using MiniORM.App.Data.Entities;
-
-namespace MiniORM.App.Data
+﻿namespace MiniORM.App.Data
 {
+    using Entities;
+
     public class TestDbContext : DbContext
     {
         public TestDbContext(string connectionString)
@@ -16,6 +16,6 @@ namespace MiniORM.App.Data
 
         public DbSet<Project> Projects { get; }
 
-        public DbSet<EmployeeProject> EmployeeProjects { get; }
+        public DbSet<EmployeeProject> EmployeesProjects { get; }
     }
 }
