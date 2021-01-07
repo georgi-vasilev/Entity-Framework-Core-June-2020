@@ -1,0 +1,126 @@
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.exe
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.deps.json
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.runtimeconfig.json
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.runtimeconfig.dev.json
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.pdb
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csprojAssemblyReference.cache
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.AssemblyInfoInputs.cache
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.AssemblyInfo.cs
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csproj.CopyComplete
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.dll
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.pdb
+C:\Users\Vasilev\source\repos\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.genruntimeconfig.cache
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.exe
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\EfDemo.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.genruntimeconfig.cache
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Workspace\Entity-Framework-Core-June-2020\03. Entity Framework Introduction\Ef Lecture Demo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
