@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Collections.Generic;
-using RecepiesSystem_CodeFirst.Models;
+﻿using RecepiesSystem_CodeFirst.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace RecepiesSystem_CodeFirst
@@ -11,23 +8,7 @@ namespace RecepiesSystem_CodeFirst
         public static void Main()
         {
             var db = new RecipesDbContext();
-            //db.Database.EnsureCreated();
-            //db.Database.Migrate();
-
-            //cascade insert
-            //for (int i = 0; i < 1000; i++)
-            //{
-            //    db.Recipes.Add(new Recipe {
-            //        Name = i.ToString(),
-            //        Ingredients = new List<Ingredient>
-            //        {
-            //            new Ingredient { Name = "Meat", Amount = 500},
-            //            new Ingredient { Name = "Potatoes", Amount = 400}
-            //        }
-            //    });
-            //}
-
-            //db.SaveChanges();
+            db.Database.Migrate();
         }
     }
 }
