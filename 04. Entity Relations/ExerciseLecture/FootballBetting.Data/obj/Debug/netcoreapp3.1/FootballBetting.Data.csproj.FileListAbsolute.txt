@@ -1,0 +1,15 @@
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\bin\Debug\netcoreapp3.1\FootballBetting.Data.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\bin\Debug\netcoreapp3.1\FootballBetting.Data.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\bin\Debug\netcoreapp3.1\FootballBetting.Data.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\bin\Debug\netcoreapp3.1\FootballBetting.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\bin\Debug\netcoreapp3.1\FootballBetting.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\bin\Debug\netcoreapp3.1\FootballBetting.Data.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\bin\Debug\netcoreapp3.1\FootballBetting.Data.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\obj\Debug\netcoreapp3.1\FootballBetting.Data.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\obj\Debug\netcoreapp3.1\FootballBetting.Data.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\obj\Debug\netcoreapp3.1\FootballBetting.Data.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\obj\Debug\netcoreapp3.1\FootballBetting.Data.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\obj\Debug\netcoreapp3.1\FootballBetting.Data.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\obj\Debug\netcoreapp3.1\FootballBetting.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\obj\Debug\netcoreapp3.1\FootballBetting.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\ExerciseLecture\FootballBetting.Data\obj\Debug\netcoreapp3.1\FootballBetting.Data.genruntimeconfig.cache
