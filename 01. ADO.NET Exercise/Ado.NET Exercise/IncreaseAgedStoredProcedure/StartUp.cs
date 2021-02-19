@@ -7,7 +7,7 @@
 
     public class STartUp
     {
-        private const string ConnectionString = @"Server=./;Database=MinionsDb;Integrated Security=true;";
+        private const string ConnectionString = ConnectionString;
         public static void Main()
         {
             using SqlConnection sqlConnection = new SqlConnection

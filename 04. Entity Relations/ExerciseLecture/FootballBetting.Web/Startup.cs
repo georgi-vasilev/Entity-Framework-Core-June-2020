@@ -23,7 +23,7 @@ namespace FootballBetting.Web
             services.AddControllersWithViews();
 
             services.AddDbContext<FootballBettingContext>
-                (options => options.UseSqlServer(@"Server=./;Database=FootballBettingSystem;Integrated security=true;"));
+                (options => options.UseSqlServer(ConnectionString));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

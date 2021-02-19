@@ -24,7 +24,7 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=./;Database=Recipes;Integrated security=true;");
+                optionsBuilder.UseSqlServer(ConnectionString);
             }
         }
 

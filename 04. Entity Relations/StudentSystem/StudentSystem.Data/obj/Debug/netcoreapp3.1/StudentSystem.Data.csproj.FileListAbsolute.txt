@@ -1,0 +1,15 @@
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp3.1\StudentSystem.Data.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp3.1\StudentSystem.Data.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp3.1\StudentSystem.Data.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp3.1\StudentSystem.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp3.1\StudentSystem.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp3.1\StudentSystem.Data.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\bin\Debug\netcoreapp3.1\StudentSystem.Data.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp3.1\StudentSystem.Data.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp3.1\StudentSystem.Data.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp3.1\StudentSystem.Data.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp3.1\StudentSystem.Data.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp3.1\StudentSystem.Data.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp3.1\StudentSystem.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp3.1\StudentSystem.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\04. Entity Relations\StudentSystem\StudentSystem.Data\obj\Debug\netcoreapp3.1\StudentSystem.Data.genruntimeconfig.cache

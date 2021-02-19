@@ -1,0 +1,15 @@
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\obj\Debug\netcoreapp3.1\SalesDatabase.Data.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\obj\Debug\netcoreapp3.1\SalesDatabase.Data.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\obj\Debug\netcoreapp3.1\SalesDatabase.Data.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\obj\Debug\netcoreapp3.1\SalesDatabase.Data.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\bin\Debug\netcoreapp3.1\SalesDatabase.Data.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\bin\Debug\netcoreapp3.1\SalesDatabase.Data.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\bin\Debug\netcoreapp3.1\SalesDatabase.Data.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\bin\Debug\netcoreapp3.1\SalesDatabase.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\bin\Debug\netcoreapp3.1\SalesDatabase.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\bin\Debug\netcoreapp3.1\SalesDatabase.Data.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\bin\Debug\netcoreapp3.1\SalesDatabase.Data.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\obj\Debug\netcoreapp3.1\SalesDatabase.Data.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\obj\Debug\netcoreapp3.1\SalesDatabase.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\obj\Debug\netcoreapp3.1\SalesDatabase.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data\obj\Debug\netcoreapp3.1\SalesDatabase.Data.genruntimeconfig.cache

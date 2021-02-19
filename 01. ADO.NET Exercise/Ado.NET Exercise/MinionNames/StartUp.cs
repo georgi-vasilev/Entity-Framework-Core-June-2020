@@ -6,7 +6,7 @@
 
     public class StartUp
     {
-        private const string ConnectionString = @"Server=./;Database=MinionsDb;Integrated Security=true;";
+        private const string ConnectionString = ConnectionString;
 
         public static void Main()
         {

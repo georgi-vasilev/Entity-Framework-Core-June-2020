@@ -1,0 +1,9 @@
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\bin\Debug\netcoreapp3.1\SalesDatabase.Data.Models.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\bin\Debug\netcoreapp3.1\SalesDatabase.Data.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\bin\Debug\netcoreapp3.1\SalesDatabase.Data.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\obj\Debug\netcoreapp3.1\SalesDatabase.Data.Models.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\obj\Debug\netcoreapp3.1\SalesDatabase.Data.Models.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\obj\Debug\netcoreapp3.1\SalesDatabase.Data.Models.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\obj\Debug\netcoreapp3.1\SalesDatabase.Data.Models.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\obj\Debug\netcoreapp3.1\SalesDatabase.Data.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\05. LINQ\SalesDatabase\SalesDatabase.Data.Models\obj\Debug\netcoreapp3.1\SalesDatabase.Data.Models.pdb
