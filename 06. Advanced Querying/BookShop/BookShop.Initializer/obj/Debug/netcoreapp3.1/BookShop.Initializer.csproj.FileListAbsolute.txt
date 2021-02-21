@@ -1,0 +1,14 @@
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb

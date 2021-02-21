@@ -1,0 +1,12 @@
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\06. Advanced Querying\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb
