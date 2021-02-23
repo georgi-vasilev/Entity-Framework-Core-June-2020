@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MuMz1hBtsRCDwnhRx0+X1Vk5HgxKYZA9YBfjOA6v5Qt1YyQIwGZ5cZdTZg8SYZc2MRGHGlSuo9uvuoJpyPg5xQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Entity-Framework-Core-June-2020\\08. JSON Processing\\JsonDemo\\JsonDemo\\JsonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vasilev\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Vasilev\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.exe
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.dll
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\JsonDemo.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.dll
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\obj\Debug\netcoreapp3.1\JsonDemo.genruntimeconfig.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\JsonDemo\JsonDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

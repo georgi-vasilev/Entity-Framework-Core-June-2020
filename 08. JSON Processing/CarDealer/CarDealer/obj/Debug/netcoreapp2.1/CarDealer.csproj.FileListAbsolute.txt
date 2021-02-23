@@ -1,0 +1,12 @@
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache

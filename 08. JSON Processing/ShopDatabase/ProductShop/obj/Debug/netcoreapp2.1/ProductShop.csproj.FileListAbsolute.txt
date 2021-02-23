@@ -1,0 +1,12 @@
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\08. JSON Processing\ShopDatabase\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
