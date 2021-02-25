@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qKzeyysnPHIpviTPHRNnTwaw2FmZ51GCkyI29FO8tWhdOHLzpRaQ0jpj7vPgftmvYhoG+Gom4SwzXnswag+omg==",
+  "dgSpecHash": "PYOXUztyhl8o6W//V5B10QDjVToZ8FyOJrV9Ko5JEd0S+mBLqFV2zSs5tnIr87MyNkYbXacE3sRjBI7JC56Wnw==",
   "success": true,
   "projectFilePath": "D:\\Workspace\\Entity-Framework-Core-June-2020\\08. JSON Processing\\CarDealer\\CarDealer\\CarDealer.csproj",
   "expectedPackageFiles": [

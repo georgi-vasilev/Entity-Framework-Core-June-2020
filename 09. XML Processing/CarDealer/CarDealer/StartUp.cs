@@ -9,6 +9,7 @@
     using CarDealer.Models;
     using CarDealer.XMLHelper;
     using CarDealer.Dtos.Export;
+    using Microsoft.EntityFrameworkCore;
 
     public class StartUp
     {
@@ -262,21 +263,95 @@
         {
             const string rootElement = "customers";
 
-            var customers = context.Customers
-                .Where(c => c.Sales.Select(s => s.CarId == s.CustomerId).Any())
+            //doesnt work for netcore 3.1 (nested aggregations)
+            //var customers = context
+            //    .Customers
+            //    .Where(c => c.Sales.Count >= 1)
+            //    .Select(c => new ExportCustomersTotalSalesDto
+            //    {
+            //        FullName = c.Name,
+            //        BoughtCars = c.Sales.Count,
+            //        MoneySpent = 
+            //    })
+            //    .OrderByDescending(c => c.MoneySpent)
+            //    .ThenByDescending(c => c.BoughtCars)
+            //    .ToList();
+
+            //var sales = context.Customers
+            //    .Where(c => c.Sales.Count >= 1)
+            //    .Select(c => new
+            //    {
+            //        Fullname = c.Name,
+            //        BoughtCars = c.Sales
+            //            .Select(c => new
+            //            {
+            //                PartsPrice = c.Car.PartCars.Sum(p => p.Part.Price)
+            //            })
+            //    })
+            //    .AsEnumerable()
+            //    .Select(c => new ExportCustomersTotalSalesDto
+            //    {
+            //        FullName = c.Fullname,
+            //        BoughtCars = c.BoughtCars.Count(),
+            //        MoneySpent = c.BoughtCars.Sum(p => p.PartsPrice)
+            //    })
+            //    .OrderByDescending(c => c.MoneySpent)
+            //    .ThenByDescending(c => c.BoughtCars)
+            //    .ToList();
+
+
+            //Eager loading.
+            //var sales = context.Customers
+            //    .Include(c=> c.Sales)
+            //    .ThenInclude(s => s.Car.PartCars)
+            //    .ThenInclude(p => p.Part)
+            //    .Where(c => c.Sales.Count >= 1)
+            //    .AsEnumerable()
+            //    .GroupBy(c => new
+            //    {
+            //        c.Id,
+            //        c.Name,
+            //    })
+            //    .Select(c => new ExportCustomersTotalSalesDto
+            //    {
+            //        FullName = c.Key.Name,
+            //        BoughtCars = c.Count(),
+            //        MoneySpent = c.Sum(cl => cl.Sales.Sum(s => s.Car.PartCars.Sum(pc => pc.Part.Price)))
+            //    })
+            //    .OrderByDescending(c => c.MoneySpent)
+            //    .ThenBy(c => c.BoughtCars)
+            //    .ToList();
+
+            var cars = context.Cars
+                .Select(c => new
+                {
+                    carId = c.Id,
+                    PartsPrice = c.PartCars.Sum(p => p.Part.Price)
+                })
+                .ToDictionary(x => x.carId, y => y.PartsPrice);
+
+            var sales = context.Customers
+                .Where(c => c.Sales.Count >= 1)
+                .Select(c => new
+                {
+                    c.Name,
+                    carIds = c.Sales.Select(s => s.Car.Id).ToList()
+                })
+                .ToList()
                 .Select(c => new ExportCustomersTotalSalesDto
                 {
                     FullName = c.Name,
-                    BoughtCars = c.Sales.Select(s => s.CarId == s.CustomerId).Count(),
-                    MoneySpent = c.Sales.Sum(s => s.Car.PartCars.Sum(pc => pc.Part.Price))
+                    BoughtCars = c.carIds.Count,
+                    MoneySpent = c.carIds.Sum(carId => cars[carId])
                 })
                 .OrderByDescending(c => c.MoneySpent)
-                .ThenByDescending(c => c.BoughtCars)
+                .ThenBy(c => c.BoughtCars)
                 .ToList();
 
 
-            var xmlResult = XmlConverter.Serialize(customers, rootElement);
 
+
+            var xmlResult = XmlConverter.Serialize(sales, rootElement);
             return xmlResult;
         }
 
