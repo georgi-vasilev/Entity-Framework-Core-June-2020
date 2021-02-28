@@ -1,0 +1,14 @@
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\bin\Debug\netstandard2.1\RealEstates.Services.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\bin\Debug\netstandard2.1\RealEstates.Services.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\bin\Debug\netstandard2.1\RealEstates.Services.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\bin\Debug\netstandard2.1\RealEstates.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\bin\Debug\netstandard2.1\RealEstates.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\bin\Debug\netstandard2.1\RealEstates.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\bin\Debug\netstandard2.1\RealEstates.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\obj\Debug\netstandard2.1\RealEstates.Services.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\obj\Debug\netstandard2.1\RealEstates.Services.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\obj\Debug\netstandard2.1\RealEstates.Services.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\obj\Debug\netstandard2.1\RealEstates.Services.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\obj\Debug\netstandard2.1\RealEstates.Services.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\obj\Debug\netstandard2.1\RealEstates.Services.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Services\obj\Debug\netstandard2.1\RealEstates.Services.pdb
