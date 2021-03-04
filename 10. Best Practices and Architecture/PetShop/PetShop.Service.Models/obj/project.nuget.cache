@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xinDAw7/sZB615rkZwqVcUypR3Ret/Y+HxUEAe0W4mrA1w8csq2+yOr0KzcnXIgvUo2su69RCAyt0oqUoCLaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Entity-Framework-Core-June-2020\\10. Best Practices and Architecture\\PetShop\\PetShop.Service.Models\\PetShop.Service.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vasilev\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

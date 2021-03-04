@@ -1,0 +1,9 @@
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\obj\Debug\netstandard2.0\PetShop.Models.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\obj\Debug\netstandard2.0\PetShop.Models.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\obj\Debug\netstandard2.0\PetShop.Models.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\obj\Debug\netstandard2.0\PetShop.Models.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\bin\Debug\netstandard2.0\PetShop.Models.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\bin\Debug\netstandard2.0\PetShop.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\bin\Debug\netstandard2.0\PetShop.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\obj\Debug\netstandard2.0\PetShop.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Models\obj\Debug\netstandard2.0\PetShop.Models.pdb

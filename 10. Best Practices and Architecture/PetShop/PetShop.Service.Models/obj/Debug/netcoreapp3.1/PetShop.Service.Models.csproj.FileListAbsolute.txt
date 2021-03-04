@@ -1,0 +1,8 @@
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Service.Models\bin\Debug\netcoreapp3.1\PetShop.Service.Models.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Service.Models\bin\Debug\netcoreapp3.1\PetShop.Service.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Service.Models\bin\Debug\netcoreapp3.1\PetShop.Service.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Service.Models\obj\Debug\netcoreapp3.1\PetShop.Service.Models.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Service.Models\obj\Debug\netcoreapp3.1\PetShop.Service.Models.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Service.Models\obj\Debug\netcoreapp3.1\PetShop.Service.Models.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Service.Models\obj\Debug\netcoreapp3.1\PetShop.Service.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Service.Models\obj\Debug\netcoreapp3.1\PetShop.Service.Models.pdb

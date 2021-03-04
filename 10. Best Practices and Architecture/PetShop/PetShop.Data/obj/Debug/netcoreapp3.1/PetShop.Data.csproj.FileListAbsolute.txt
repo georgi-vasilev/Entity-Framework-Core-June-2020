@@ -1,0 +1,17 @@
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Models.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\obj\Debug\netcoreapp3.1\PetShop.Data.csprojAssemblyReference.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\obj\Debug\netcoreapp3.1\PetShop.Data.AssemblyInfoInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\obj\Debug\netcoreapp3.1\PetShop.Data.AssemblyInfo.cs
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Data.deps.json
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Data.runtimeconfig.json
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Data.runtimeconfig.dev.json
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Common.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Common.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\bin\Debug\netcoreapp3.1\PetShop.Models.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\obj\Debug\netcoreapp3.1\PetShop.Data.csproj.CoreCompileInputs.cache
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\obj\Debug\netcoreapp3.1\PetShop.Data.csproj.CopyComplete
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\obj\Debug\netcoreapp3.1\PetShop.Data.dll
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\obj\Debug\netcoreapp3.1\PetShop.Data.pdb
+D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\PetShop\PetShop.Data\obj\Debug\netcoreapp3.1\PetShop.Data.genruntimeconfig.cache
