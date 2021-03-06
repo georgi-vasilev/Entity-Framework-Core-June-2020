@@ -1,16 +1,18 @@
-﻿namespace RealEstates.Data
-{
-    using Microsoft.EntityFrameworkCore;
-    using RealEstates.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using RealEstates.Models;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
+namespace RealEstates.Data
+{
     public class RealEstateDbContext : DbContext
     {
         public RealEstateDbContext()
         {
-
         }
 
-        public RealEstateDbContext(DbContextOptions options) 
+        public RealEstateDbContext(DbContextOptions options)
             : base(options)
         {
         }
@@ -29,9 +31,8 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(Configuration.ConnectionString);
+                optionsBuilder.UseSqlServer("Server=.;Database=RealEstate;Integrated Security=true;");
             }
-            base.OnConfiguring(optionsBuilder);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

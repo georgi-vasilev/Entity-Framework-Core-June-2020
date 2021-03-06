@@ -1,9 +1,0 @@
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\bin\Debug\netstandard2.1\RealEstates.Models.deps.json
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\bin\Debug\netstandard2.1\RealEstates.Models.dll
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\bin\Debug\netstandard2.1\RealEstates.Models.pdb
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\obj\Debug\netstandard2.1\RealEstates.Models.AssemblyInfoInputs.cache
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\obj\Debug\netstandard2.1\RealEstates.Models.AssemblyInfo.cs
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\obj\Debug\netstandard2.1\RealEstates.Models.csproj.CoreCompileInputs.cache
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\obj\Debug\netstandard2.1\RealEstates.Models.dll
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\obj\Debug\netstandard2.1\RealEstates.Models.pdb
-D:\Workspace\Entity-Framework-Core-June-2020\10. Best Practices and Architecture\RealEstates\RealEstates.Models\obj\Debug\netstandard2.1\RealEstates.Models.csprojAssemblyReference.cache

@@ -1,15 +1,16 @@
-﻿namespace RealEstates.Services
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Linq.Expressions;
-    using RealEstates.Data;
-    using RealEstates.Models;
+﻿using RealEstates.Data;
+using RealEstates.Models;
+using RealEstates.Services.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
 
+namespace RealEstates.Services
+{
     public class DistrictsService : IDistrictsService
     {
-        private RealEstateDbContext db;
+        private readonly RealEstateDbContext db;
 
         public DistrictsService(RealEstateDbContext db)
         {
@@ -25,7 +26,6 @@
                 .ToList();
         }
 
-
         public IEnumerable<DistrictViewModel> GetTopDistrictsByNumberOfProperties(int count = 10)
         {
             return this.db.Districts
@@ -39,11 +39,11 @@
         {
             return x => new DistrictViewModel
             {
-                District = x.Name,
+                Name = x.Name,
                 AveragePrice = x.Properties.Average(x => (double)x.Price / x.Size),
                 MinPrice = x.Properties.Min(x => x.Price),
                 MaxPrice = x.Properties.Max(x => x.Price),
-                PropertiesCount = x.Properties.Count()
+                PropertiesCount = x.Properties.Count(),
             };
         }
     }

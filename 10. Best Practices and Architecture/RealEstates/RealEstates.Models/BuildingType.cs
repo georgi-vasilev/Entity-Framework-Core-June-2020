@@ -1,8 +1,9 @@
-﻿namespace RealEstates.Models
-{
-    using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Runtime.CompilerServices;
 
+namespace RealEstates.Models
+{
     public class BuildingType
     {
         public BuildingType()

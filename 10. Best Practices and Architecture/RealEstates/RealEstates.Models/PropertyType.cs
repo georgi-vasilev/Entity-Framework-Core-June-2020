@@ -1,8 +1,8 @@
-﻿namespace RealEstates.Models
-{
-    using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
+namespace RealEstates.Models
+{
     public class PropertyType
     {
         public PropertyType()
